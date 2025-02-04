@@ -66,6 +66,12 @@ cd JobSharp.DiscordBot
 dotnet run
 ```
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/612fe097-4bbe-4a03-a59f-33a1ace82cd2)
+
+![image](https://github.com/user-attachments/assets/0c247c51-ed46-4a8f-868b-291391e7d4c8)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request.
